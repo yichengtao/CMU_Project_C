@@ -10,3 +10,5 @@ The program (codes) itself
 
 ***********
 Goodbye
+
+See Output.txt for details.
