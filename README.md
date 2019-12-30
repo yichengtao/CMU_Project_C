@@ -12,4 +12,4 @@ The program (codes) itself
 Goodbye
 
 See Output.txt for details.
-The size of the project is 31 lines.
+The size of the whole project is 31 lines.
